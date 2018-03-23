@@ -1,0 +1,5 @@
+a=int(input("Enter the a value:"))
+b=int(input("Enter the b value:"))
+c=int(input("Enter the c value:"))
+s=((c//2)*(2*a+(c-1)*b))
+print(s)
